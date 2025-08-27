@@ -1,2 +1,1 @@
-Info about me; 
-rentry.co/cainpage
+[Info about me!](https://rentry.co/cainpage)
